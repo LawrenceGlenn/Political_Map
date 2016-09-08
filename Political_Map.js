@@ -1,4 +1,4 @@
-$(document).ready(function(){
+
 
 		var rsr = Raphael('map', 1241.7317, 720.55206);
 		rsr.customAttributes.popup = function(){};
@@ -2027,4 +2027,3 @@ for (var i = 0; i < states.length; i++){
 	});
 }
 
-})
